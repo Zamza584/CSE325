@@ -1,0 +1,24 @@
+GET http://localhost:5104/
+
+### 
+GET http://localhost:5104/todos
+
+### 
+POST http://localhost:5104/todos
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "Test Item", 
+  "dueDate": "2026-12-31",
+  "isCompleted": false
+}
+
+###
+GET http://localhost:5104/todos/1
+
+###
+DELETE http://localhost:5104/todos/1
+
+### 
+GET http://localhost:5104/tasks/1

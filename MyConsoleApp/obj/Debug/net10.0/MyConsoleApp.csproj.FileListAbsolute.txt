@@ -12,3 +12,4 @@ C:\Users\Jupiter\Documents\Uni projects\cse325\MyConsoleApp\obj\Debug\net10.0\re
 C:\Users\Jupiter\Documents\Uni projects\cse325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
 C:\Users\Jupiter\Documents\Uni projects\cse325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\Jupiter\Documents\Uni projects\cse325\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll
+C:\Users\Jupiter\Documents\Uni projects\cse325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.sourcelink.json
